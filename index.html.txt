@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home - Research Learning Centre</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="navbar">
+    <a href="index.html" class="logo">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" alt="Hub Logo" class="logo-img">
+      ResearchLearningHub
+    </a>
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="services.html">Services</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Empowering Scholars. Elevating Research.</h1>
+    <p>A premier training, support, and guidance hub for academic excellence.</p>
+    <a href="https://forms.google.com" target="_blank" class="btn">Register via Google Form</a>
+  </section>
+
+  <section class="container">
+    <h2 class="section-title">Our Core Purpose</h2>
+    <p class="center-text">To bridge the gap between complex methodologies and flawless academic execution, guiding researchers and faculty members to achieve global publication benchmarks.</p>
+  </section>
+
+  <section style="background-color: #f4f7fc; padding: 60px 0;">
+    <div class="container">
+      <h2 class="section-title">Join Our Research Membership</h2>
+      <p class="center-text">Become a part of an elite academic ecosystem. Gain perpetual benefits, tools access, and continuous peer support.</p>
+      
+      <div class="grid">
+        <div class="card">
+          <div class="card-icon">🎓</div>
+          <h3>Student Member</h3>
+          <p>Ideal for master’s and early-stage PhD scholars. Access weekly writing groups and syntax review modules.</p>
+          <a href="https://forms.google.com" target="_blank" class="btn btn-secondary">Apply Now</a>
+        </div>
+        <div class="card">
+          <div class="card-icon">🔬</div>
+          <h3>Faculty / Fellow</h3>
+          <p>Tailored for active university professors and project leads. Collaboration pipelines and peer-review modules.</p>
+          <a href="https://forms.google.com" target="_blank" class="btn btn-secondary">Apply Now</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container">
+    <div class="registration-box">
+      <h2 style="color: #002e7a; margin-bottom: 10px;">Upcoming Workshop Registration</h2>
+      <p style="color: #6b778c; margin-bottom: 20px;">Secure your seat for the next cohort on Scopus Publication and Reference Management.</p>
+      <a href="https://forms.google.com" target="_blank" class="btn">Open Registration Form 📋</a>
+    </div>
+  </section>
+
+  <footer><p>© 2026 Research Learning Centre. All Rights Reserved.</p></footer>
+</body>
+</html>
